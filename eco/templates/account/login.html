@@ -1,0 +1,48 @@
+{% extends "account/base.html" %}
+{% load i18n %}
+{% load socialaccount %}
+{% providers_media_js %}
+{% load account socialaccount %}
+{% load crispy_forms_tags %}
+{%  load my_templatetag %}
+
+{% block head_title %}{% trans "Sign In" %}{% endblock %}
+
+{% block content %}
+
+    <main>
+        <div class="container">
+            <section class=" mb-4">
+                <div class="row wow fadeIn">
+                <div class="col-6 offset-3">
+                    <h1>{% trans "Sign In" %}</h1>
+
+                    {% get_providers as socialaccount_providers %}
+                        {% include "socialaccount/snippets/login_extra.html" %}
+                        <p>{% blocktrans %}If you have not created an account yet, then please
+                            <a href="{{ signup_url }}">sign up</a> first.{% endblocktrans %}</p>
+                    <form class="login" method="POST" action="{% url 'account_login' %}">
+                        {% csrf_token %}
+                        {{ form|crispy }}
+                        {% if redirect_field_value %}
+                            <input type="hidden" name="{{ redirect_field_name }}" value="{{ redirect_field_value }}"/>
+                        {% endif %}
+                        <a href="{% url 'account_reset_password' %}">{% trans "Forgot Password?" %}</a>
+
+                     <div>
+                         <button class="btn btn-primary" type="submit">{% trans "Sign In" %}</button>
+                         <a class="btn btn-fb" href="{% provider_login_url "facebook" method="js_sdk"%}"><i class="fab fa-facebook-f left"></i> Facebook</a>
+                         <a  class="btn btn-gplus" href="{% url 'social:begin' 'google-oauth2' %}"><i class="fab fa-google-plus-g left"></i> Google +</a>
+                     </div>
+                    </form>
+                </div>
+                </div>
+
+        </section>
+        </div>
+        </section>
+
+        </div>
+    </main>
+
+{% endblock %}

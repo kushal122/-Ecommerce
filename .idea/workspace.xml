@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd28868f-ad6d-44ea-bfd2-f90fdc549de1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/eco/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/eco/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/eco/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/eco/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eco/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/eco/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1OVXdY8IIYlUj0i9QGlnHEprwBx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="/opt/lampp/htdocs/atitprojects" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eco/templates" />
+      <recent name="C:\Users\Atit\Desktop\project\env\ecommerce" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ecommerce" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ecommerce" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ecommerce.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd28868f-ad6d-44ea-bfd2-f90fdc549de1" name="Default Changelist" comment="" />
+      <created>1562514065399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562514065399</updated>
+      <workItem from="1562514073044" duration="3645000" />
+      <workItem from="1562596643786" duration="3553000" />
+      <workItem from="1562641297719" duration="2102000" />
+      <workItem from="1562672813916" duration="12219000" />
+      <workItem from="1562733115174" duration="295000" />
+      <workItem from="1562775933958" duration="1678000" />
+      <workItem from="1562847885922" duration="2939000" />
+      <workItem from="1562939616223" duration="9321000" />
+      <workItem from="1562994126554" duration="3030000" />
+      <workItem from="1563179443402" duration="594000" />
+      <workItem from="1563378191972" duration="291000" />
+      <workItem from="1563422309684" duration="203000" />
+      <workItem from="1563462545527" duration="4969000" />
+      <workItem from="1563558287422" duration="558000" />
+      <workItem from="1563559545914" duration="2984000" />
+      <workItem from="1564063870116" duration="600000" />
+      <workItem from="1564126580405" duration="100000" />
+      <workItem from="1564754421244" duration="477000" />
+      <workItem from="1566999874978" duration="10580000" />
+      <workItem from="1567042317548" duration="8412000" />
+      <workItem from="1567239012314" duration="9550000" />
+      <workItem from="1567401548475" duration="2292000" />
+      <workItem from="1567434852810" duration="4633000" />
+      <workItem from="1567576808986" duration="9461000" />
+    </task>
+    <task id="LOCAL-00001" summary="this is ecommerce site">
+      <created>1563462834312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563462834312</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="this is ecommerce site" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is ecommerce site" />
+  </component>
+</project>
